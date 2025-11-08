@@ -15,7 +15,7 @@ La versión de Python tiene que ser mayor o igual a 3.10
 
 La libreria playwright es de versión 1.55.0
 
-Se debe clonar el repositorio y con CMD abril la ruta local donde se descargó el proyecto.
+Se debe clonar el repositorio y con CMD abrir la ruta local donde se descargó el proyecto.
 
         cd C:\Users\USUARIO\Documents\ruta_local\
 
@@ -39,7 +39,11 @@ Para ejecutarlo se corre el script logica.py
 
 # Parametros
 
-El script parametros.py tiene variables o parámetros de configuración como la URL del sitio, referencias para ubicar los datos del .json y si se corre en primer plano o segundo plano.
+El script parametros.py tiene variables o parámetros de configuración como: 
+    
+    La URL del sitio
+    Referencias para ubicar los datos del .json 
+    Bandera para configurar si se corre en primer plano (navegador se carga) o segundo plano (navegador no se carga).
 
 # Credenciales
 
