@@ -1,0 +1,106 @@
+2025-11-07 23:18:36 - INFO - Hola
+2025-11-07 23:27:01 - INFO - INICIO PROCESO DE ACTUALIZACION DE USUARIOS
+2025-11-07 23:27:02 - INFO - El proceso corren en primer plano
+2025-11-07 23:27:04 - INFO - Inicio de sesion de Admin
+2025-11-07 23:27:04 - INFO - Se tiene 1 usuarios para actualizar
+2025-11-07 23:29:56 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-07 23:29:56 - INFO - El proceso corren en primer plano
+2025-11-07 23:29:58 - INFO - El usuario Admin inicio sesion
+2025-11-07 23:29:58 - INFO - Se tiene 1 usuarios para actualizar
+2025-11-07 23:30:31 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-07 23:30:31 - INFO - El proceso corren en primer plano
+2025-11-07 23:30:34 - INFO - El usuario Admin inicio sesion
+2025-11-07 23:30:34 - INFO - Se tiene 1 usuarios para actualizar
+2025-11-07 23:30:39 - INFO - 1. Se actualizo johndoe1987 por Nela434 correctamente
+2025-11-07 23:30:39 - INFO - ----------------FIN PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-07 23:31:36 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-07 23:31:36 - INFO - El proceso corren en primer plano
+2025-11-07 23:31:39 - INFO - El usuario Admin inicio sesion
+2025-11-07 23:31:39 - INFO - Se tiene 1 usuarios para actualizar
+2025-11-07 23:32:02 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-07 23:32:03 - INFO - El proceso corren en primer plano
+2025-11-07 23:32:06 - INFO - El usuario Admin inicio sesion
+2025-11-07 23:32:06 - INFO - Se tiene 1 usuarios para actualizar
+2025-11-07 23:35:33 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-07 23:35:34 - INFO - El proceso corren en primer plano
+2025-11-07 23:35:38 - INFO - El usuario Admin inicio sesion
+2025-11-07 23:35:38 - INFO - Se tiene 1 usuarios para actualizar
+2025-11-07 23:37:47 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-07 23:37:47 - INFO - El proceso corren en primer plano
+2025-11-07 23:37:50 - INFO - El usuario Admin inicio sesion
+2025-11-07 23:37:50 - INFO - Se tiene 1 usuarios para actualizar
+2025-11-07 23:39:03 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-07 23:39:06 - INFO - El proceso corren en primer plano
+2025-11-07 23:39:40 - INFO - El usuario Admin inicio sesion
+2025-11-07 23:46:49 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-07 23:46:56 - INFO - El proceso corren en primer plano
+2025-11-07 23:47:29 - INFO - Se tiene 1 usuarios para actualizar
+2025-11-07 23:48:43 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-07 23:48:47 - INFO - El proceso corren en primer plano
+2025-11-07 23:48:56 - INFO - Las credenciales estan incorrectas
+2025-11-07 23:49:02 - INFO - ----------------FIN PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-07 23:49:26 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-07 23:49:29 - INFO - El proceso corren en primer plano
+2025-11-07 23:49:47 - INFO - Se tiene 1 usuarios para actualizar
+2025-11-07 23:49:49 - INFO - El usuario Admin inicio sesion
+2025-11-07 23:51:32 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-07 23:51:35 - INFO - El proceso corren en primer plano
+2025-11-07 23:51:48 - INFO - Se tiene 1 usuarios para actualizar
+2025-11-07 23:51:48 - INFO - El usuario Admin inicio sesion
+2025-11-07 23:54:41 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-07 23:54:41 - INFO - El proceso corren en primer plano
+2025-11-07 23:54:49 - INFO - Se tiene 2 usuarios para actualizar
+2025-11-07 23:54:49 - INFO - El usuario Admin inicio sesion
+2025-11-07 23:54:53 - INFO - 1. Se actualizo Lucas por Kukis5 correctamente
+2025-11-07 23:55:24 - ERROR - 2. No existe el username dororeore
+2025-11-07 23:55:24 - INFO - ----------------FIN PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-08 00:01:21 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-08 00:01:21 - INFO - El proceso corren en primer plano
+2025-11-08 00:01:29 - INFO - Se tiene 3 usuarios para actualizar
+2025-11-08 00:01:29 - INFO - El usuario Admin inicio sesion
+2025-11-08 00:01:33 - INFO - 1. Se actualizo Nela434 por MILTON correctamente
+2025-11-08 00:02:04 - ERROR - 2. No existe el username dororeore
+2025-11-08 00:02:06 - ERROR - Kuk debe tener al menos 5 caracteres
+2025-11-08 00:02:06 - INFO - ----------------FIN PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-08 00:03:18 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-08 00:03:19 - INFO - El proceso corren en primer plano
+2025-11-08 00:03:26 - INFO - Se tiene 3 usuarios para actualizar
+2025-11-08 00:03:26 - INFO - El usuario Admin inicio sesion
+2025-11-08 00:03:31 - INFO - 1. Se actualizo MILTON por MILTON4324 correctamente
+2025-11-08 00:04:01 - ERROR - 2. No existe el username dororeore
+2025-11-08 00:04:03 - ERROR - 3. Kuk debe tener al menos 5 caracteres
+2025-11-08 00:04:03 - INFO - ----------------FIN PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-08 00:07:55 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-08 00:07:56 - INFO - El proceso corren en primer plano
+2025-11-08 00:08:03 - INFO - Se tiene 3 usuarios para actualizar
+2025-11-08 00:08:03 - INFO - El usuario Admin inicio sesion
+2025-11-08 00:08:08 - INFO - 1. Se actualizo MILTON4324 por PACHECO correctamente
+2025-11-08 00:08:38 - ERROR - 2. No existe el username dororeore
+2025-11-08 00:08:40 - ERROR - 3. Kuk debe tener al menos 5 caracteres
+2025-11-08 00:09:25 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-08 00:09:26 - INFO - El proceso corren en primer plano
+2025-11-08 00:09:33 - INFO - Se tiene 3 usuarios para actualizar
+2025-11-08 00:09:33 - INFO - El usuario Admin inicio sesion
+2025-11-08 00:09:38 - INFO - 1. Se actualizo PACHECO por PACHECO4324 correctamente
+2025-11-08 00:10:08 - ERROR - 2. No existe el username dororeore
+2025-11-08 00:10:10 - ERROR - 3. Kuk debe tener al menos 5 caracteres
+2025-11-08 00:10:10 - INFO - Se actualizaron 1 correctamente y fallaron 2
+2025-11-08 00:10:10 - INFO - ----------------FIN PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-08 00:11:50 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-08 00:11:50 - INFO - El proceso corren en segundo plano
+2025-11-08 00:12:00 - INFO - Se tiene 3 usuarios para actualizar
+2025-11-08 00:12:00 - INFO - El usuario Admin inicio sesion
+2025-11-08 00:12:04 - INFO - 1. Se actualizo PACHECO por PACHECO4324 correctamente
+2025-11-08 00:12:35 - ERROR - 2. No existe el username dororeore
+2025-11-08 00:12:36 - ERROR - 3. Kuk debe tener al menos 5 caracteres
+2025-11-08 00:12:36 - INFO - Se actualizaron 1 correctamente y fallaron 2
+2025-11-08 00:12:36 - INFO - ----------------FIN PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-08 00:14:01 - INFO - ----------------INICIO PROCESO DE ACTUALIZACION DE USUARIOS----------------
+2025-11-08 00:14:02 - INFO - El proceso corre en segundo plano
+2025-11-08 00:14:09 - INFO - Se tiene 3 usuarios para actualizar
+2025-11-08 00:14:09 - INFO - El usuario Admin inicio sesion
+2025-11-08 00:14:40 - ERROR - 1. No existe el username Jasmine.Morgan
+2025-11-08 00:15:10 - ERROR - 2. No existe el username dororeore
+2025-11-08 00:15:12 - ERROR - 3. Kuk debe tener al menos 5 caracteres
+2025-11-08 00:15:12 - INFO - Se actualizaron 0 correctamente y fallaron 3
+2025-11-08 00:15:12 - INFO - ----------------FIN PROCESO DE ACTUALIZACION DE USUARIOS----------------
