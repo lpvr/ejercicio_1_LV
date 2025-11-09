@@ -1,0 +1,13 @@
+* La prueba automatizada del ejercicio sigue pasos sencillos (3 pasos: logeo, ubicación de usuario a editar y actualización)
+lo que implica que hacerlo con herramientas no específicas para pruebas automatizadas como Python puede ser la
+alternativa (aunque puede llegar a ser igual de robusto).
+
+* El código planteado tiene una estructura de un proyecto escalable, ya que tiene clases y lógica modular para integrar
+con facilidad más funcionalidades. Esta misma lógica permite colocar muchos datos a actualizar, pues tiene un bucle que recorre
+todos los datos ingresados.
+
+* Un factor en contra puede ser la dependencia a la estructura HTML que tiene el Web Scraping a pequeños cambios en la applicación.
+
+* La solución hace validaciones como: credenciales incorrectas, longitud de datos a actualizar, etc.
+
+* La solución genera reportes con fecha y hora de ejecución para fines de auditoría.

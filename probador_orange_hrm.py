@@ -59,8 +59,6 @@ class ProbadorOrangeHRM:
             self.print_log_info('----------------FIN PROCESO DE ACTUALIZACION DE USUARIOS----------------')
 
     def configurar_logs(self):
-        root_dir = os.path.dirname(os.path.abspath(__file__))
-        log_path = os.path.join(root_dir, "mi_script.log")
         logging.basicConfig(
             filename='reporte_novedades.txt',
             filemode='a',
